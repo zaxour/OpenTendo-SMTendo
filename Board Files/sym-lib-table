@@ -1,4 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "Motherboard")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Motherboard.kicad_sym")(options "")(descr ""))
-)
